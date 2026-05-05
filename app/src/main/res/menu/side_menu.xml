@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_dashboard"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/nav_warga"
+        android:title="Warga" />
+    <item
+        android:id="@+id/nav_kategori_aset"
+        android:title="Kategori Aset" />
+    <item
+        android:id="@+id/nav_aset"
+        android:title="Aset" />
+    <item
+        android:id="@+id/nav_lokasi_aset"
+        android:title="Lokasi Aset" />
+    <item
+        android:id="@+id/nav_pemeliharaan_aset"
+        android:title="Pemeliharaan Aset" />
+</menu>
