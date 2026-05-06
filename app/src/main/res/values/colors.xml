@@ -10,4 +10,6 @@
     <color name="success_text">#155724</color>
     <color name="gray_text">#6c757d</color>
     <color name="border_color">#dee2e6</color>
+    <color name="nav_bg">#6c757d</color>
+    <color name="nav_indicator">#868e96</color>
 </resources>
